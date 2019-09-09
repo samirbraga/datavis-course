@@ -13,4 +13,6 @@
 
 ---
 
-Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
+## Aula 10 - dia 04/09/2019
+
+[notebook.html](d3_intro/notebook.html)

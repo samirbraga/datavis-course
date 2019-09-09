@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Observable notebook</h1>
+    <div id="cells">
+        <div class="cell-container">
+            <h2>Célula Barras 1</h2>
+            <div id="cell-barras1"></div>
+        </div>
+        <div class="cell-container">
+            <h2>Célula Barras 2</h2>
+            <div id="cell-barras2"></div>
+        </div>
+        <div class="cell-container">
+            <h2>Célula Barras 3</h2>
+            <div id="cell-barras3"></div>
+        </div>
+        <div class="cell-container">
+            <h2>Célula Barras 4</h2>
+            <div id="cell-barras4"></div>
+        </div>
+    </div>
+
+    <script type="module">
+        // Load the Observable runtime and inspector.
+        import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+
+        // Your notebook, compiled as an ES module.
+        import notebook from "https://api.observablehq.com/@samirbraga/introducao-ao-d3-com-observable.js?v=3";
+
+        // Load the notebook, observing its cells with a default Inspector
+        // that simply renders the value of each cell into the provided DOM node.
+        new Runtime().module(notebook, name => {
+            const wrapper = document.querySelector("#cell-" + name);
+            if (wrapper) {
+                return new Inspector(wrapper);
+            }
+        });
+    </script>
+</body>
+</html>
