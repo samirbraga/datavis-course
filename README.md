@@ -1,3 +1,16 @@
+## Aula 12 - dia 11/09/2019
+
+[scatterplot.html](d3_scale/scatterplot.html)
+
+
+---
+
+## Aula 10 - dia 04/09/2019
+
+[notebook.html](d3_intro/notebook.html)
+
+---
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
@@ -12,7 +25,3 @@
 [index10.html](basic/index10.html)<br>
 
 ---
-
-## Aula 10 - dia 04/09/2019
-
-[notebook.html](d3_intro/notebook.html)
