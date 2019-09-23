@@ -1,3 +1,8 @@
+## Aula 13 - dia 16/09/2019
+
+[scatterplot.html](d3_update/scatterplot.html)
+
+
 ## Aula 12 - dia 11/09/2019
 
 [scatterplot.html](d3_scale/scatterplot.html)
