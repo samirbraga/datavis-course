@@ -1,4 +1,4 @@
-// https://observablehq.com/@samirbraga/d3-com-crossfilter-e-dc-js-parte-2@198
+// https://observablehq.com/@samirbraga/d3-com-crossfilter-e-dc-js-parte-2@199
 export default function define(runtime, observer) {
   const main = runtime.module();
   main.variable(observer()).define(["md"], function(md){return(
@@ -19,7 +19,7 @@ html`<code>css</code> <link rel="stylesheet" href="https://stackpath.bootstrapcd
     .group(d => "List of all earthquakes corresponding to the filters")
     .size(10)
     .sortBy(d => d.dtg)
-    .columns(['ctg', 'magnitude', 'depth', 'latitude', 'longitude'])
+    .columns(['dtg', 'magnitude', 'depth', 'latitude', 'longitude'])
     .order(d3.ascending)
   
   let magnitudeChart = dc.barChart(view.querySelector("#magnitude-chart"), "earthquakes")
