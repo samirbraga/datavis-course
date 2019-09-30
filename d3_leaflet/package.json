@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/d3-com-crossfilter-dc-js-e-leaflet",
+  "main": "d/a15004f8938f1686.js",
+  "version": "233.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/d3-com-crossfilter-dc-js-e-leaflet",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

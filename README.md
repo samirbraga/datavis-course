@@ -1,3 +1,10 @@
+## Aula 17 - dia 30/09/2019
+
+[index.html](d3_leaflet/index.html)
+
+---
+
+
 ## Aula 16 - dia 25/09/2019
 
 [index.html](d3_crossfilter_2/index.html)
