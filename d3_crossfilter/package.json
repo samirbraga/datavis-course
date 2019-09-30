@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/d3-com-crossfilter-e-dc-js",
+  "main": "d/36680f532bd3e75f.js",
+  "version": "531.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

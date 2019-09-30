@@ -1,7 +1,20 @@
+## Aula 16 - dia 25/09/2019
+
+[index.html](d3_crossfilter_2/index.html)
+
+---
+
+## Aula 15 - dia 23/09/2019
+
+[index.html](d3_crossfilter/index.html)
+
+---
+
 ## Aula 13 - dia 16/09/2019
 
 [scatterplot.html](d3_update/scatterplot.html)
 
+---
 
 ## Aula 12 - dia 11/09/2019
 
