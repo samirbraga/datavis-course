@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/crimes-in-chicago-in-september-of-2019",
+  "main": "d/6e4a5be80a9e53c6.js",
+  "version": "353.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/crimes-in-chicago-in-september-of-2019",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

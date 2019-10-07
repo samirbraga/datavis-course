@@ -1,9 +1,14 @@
+## Aula 18 - dia 02/10/2019
+
+[index.html](d3_leaflet/crimes-in-chicago/index.html)
+
+---
+
 ## Aula 17 - dia 30/09/2019
 
 [index.html](d3_leaflet/index.html)
 
 ---
-
 
 ## Aula 16 - dia 25/09/2019
 
