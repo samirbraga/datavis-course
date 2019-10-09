@@ -2,11 +2,11 @@
 
 ### Similar Songs Network
 
-[index.html][d3_network/similar-song/index.html]
+[index.html](d3_network/similar-song/index.html)
 
 ### Les Miserables Network
 
-[index.html][d3_network/les-miserables/index.html]
+[index.html](d3_network/les-miserables/index.html)
 
 ---
 
