@@ -1,0 +1,14 @@
+{
+  "name": "8ee19fbc910b7602",
+  "main": "d/8ee19fbc910b7602.js",
+  "version": "118.0.0",
+  "homepage": "https://observablehq.com/d/8ee19fbc910b7602",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
