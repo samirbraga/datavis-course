@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/les-miserables-network",
+  "main": "d/65594209c12f365c.js",
+  "version": "148.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/les-miserables-network",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
