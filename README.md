@@ -1,3 +1,15 @@
+## Aula 20 - dia 09/10/2019
+
+### Similar Songs Network
+
+[index.html][d3_network/similar-song/index.html]
+
+### Les Miserables Network
+
+[index.html][d3_network/les-miserables/index.html]
+
+---
+
 ## Aula 18 - dia 02/10/2019
 
 [index.html](d3_leaflet/crimes-in-chicago/index.html)
