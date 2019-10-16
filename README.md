@@ -1,3 +1,15 @@
+## Aula 21 - dia 16/10/2019
+
+### Homicídios em Fortaleza
+
+[index.html](d3_color/homicídios-em-fortaleza/index.html)
+
+### Taxa de Desemprego nos EUA
+
+[index.html](d3_color/taxa-de-desemprego-nos-eua/index.html)
+
+---
+
 ## Aula 20 - dia 09/10/2019
 
 ### Similar Songs Network

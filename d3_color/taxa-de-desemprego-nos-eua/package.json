@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/ea95f6f31d7aceb4.js",
+  "version": "74.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@samirbraga/homicidios-em-fortaleza-em-2012",
+  "main": "d/e06a98f2e6d53561.js",
+  "version": "128.0.0",
+  "homepage": "https://observablehq.com/@samirbraga/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Samir Braga",
+    "url": "https://observablehq.com/@samirbraga"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
