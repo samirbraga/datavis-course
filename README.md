@@ -1,3 +1,15 @@
+## Aula 23 - dia 23/10/2019
+
+### Taxa de Desemprego nos EUA - Parte 2
+
+[index.html](d3_interactive/taxa-de-desemprego-nos-eua/index.html)
+
+### D3 com Crossfilter, DC.js e Leaflet - Parte 2
+
+[index.html](d3_interactive/d3-cf-dc-leaflet/index.html)
+
+---
+
 ## Aula 21 - dia 16/10/2019
 
 ### Homicídios em Fortaleza
